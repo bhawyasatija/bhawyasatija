@@ -23,8 +23,8 @@ A macOS AI desktop agent built around a modular Rust core, permission-gated tool
 
 **Technologies:** Rust, Tauri, React, TypeScript, SQLite, Swift.
 
-### StoreIt — Cloud File Storage & Sharing
-A cloud-storage application with email OTP authentication, file management, recipient-level sharing, server-side access controls, and automated verification. *Source repository currently private.*
+### [StoreIt — Cloud File Storage & Sharing](https://github.com/bhawyasatija/storeit)
+A cloud-storage application with email OTP authentication, file management, recipient-level sharing, server-side access controls, and automated verification.
 
 **Technologies:** Next.js, React, TypeScript, Appwrite, Vitest, Playwright.
 
